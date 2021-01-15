@@ -20,10 +20,10 @@
 
 title: Monos
 email: hyoungsiknam@khu.ac.kr
-description: >- # this means to ignore newlines until "baseurl:"
+description: >- # this means to ignore newlines until "baseurl:"
   Themed by ejjoo
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://idealab.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://hsnam198.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: hsnam198
 highlighter: rouge
 svg:
